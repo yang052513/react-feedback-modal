@@ -1,6 +1,6 @@
 # react-feedback-modal
 
-> A beautiful and simple feedback dialog react components.
+> A beautiful and simple react feedback dialog components.
 
 [![NPM](https://img.shields.io/npm/v/react-feedback-modal.svg)](https://www.npmjs.com/package/react-feedback-modal) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
