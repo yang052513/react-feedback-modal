@@ -1,4 +1,4 @@
-#react-feedback-modal
+# react-feedback-modal
 
 > A beautiful and simple feedback dialog react components.
 
